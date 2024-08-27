@@ -47,12 +47,12 @@ This endpoint retrieves aggregated data from the following APIs:
 -JSONPlaceholder API: Fetches sample posts data.
 
 -Query Parameters
-Parameter	Type	Description
-filterByTitle	string	Filters articles and posts by title. Partial matches are supported.
+Parameter	     Type	   Description
+filterByTitle	 string	Filters articles and posts by title. Partial matches are supported.
 filterByAuthor	string	Filters news articles by author. Partial matches are supported.
-filterByName	string	Filters phone data by name. Partial matches are supported.
-sortBy		string	Specifies the field to sort the data by. Supported values: title, author, publishedAt, name, capacity.
-sortDescending	bool	If true, sorts the data in descending order. Defaults to false for ascending order.
+filterByName	  string	Filters phone data by name. Partial matches are supported.
+sortBy		       string	Specifies the field to sort the data by. Supported values: title, author, publishedAt, name, capacity.
+sortDescending	 bool	 If true, sorts the data in descending order. Defaults to false for ascending order.
 
 -Response Format
 Status Code: 200 OK
