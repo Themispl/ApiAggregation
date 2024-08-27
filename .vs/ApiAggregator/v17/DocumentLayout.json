@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|c:\\users\\themi\\source\\repos\\apiaggregator\\apiaggregator\\controllers\\aggregationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|solutionrelative:apiaggregator\\controllers\\aggregationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|c:\\users\\themi\\source\\repos\\apiaggregator\\apiaggregator\\services\\apiaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|solutionrelative:apiaggregator\\services\\apiaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|c:\\users\\themi\\source\\repos\\apiaggregator\\apiaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|solutionrelative:apiaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|c:\\users\\themi\\source\\repos\\apiaggregator\\apiaggregator\\models\\phonemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC82C1-EA19-484C-8B7E-96485F5B2703}|ApiAggregator\\ApiAggregator.csproj|solutionrelative:apiaggregator\\models\\phonemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAggregator\\Program.cs",
+              "ToolTip": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Program.cs",
+              "RelativeToolTip": "ApiAggregator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:17:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneModels.cs",
+              "DocumentMoniker": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Models\\PhoneModels.cs",
+              "RelativeDocumentMoniker": "ApiAggregator\\Models\\PhoneModels.cs",
+              "ToolTip": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Models\\PhoneModels.cs",
+              "RelativeToolTip": "ApiAggregator\\Models\\PhoneModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:06:41.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AggregationController.cs",
+              "DocumentMoniker": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Controllers\\AggregationController.cs",
+              "RelativeDocumentMoniker": "ApiAggregator\\Controllers\\AggregationController.cs",
+              "ToolTip": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Controllers\\AggregationController.cs",
+              "RelativeToolTip": "ApiAggregator\\Controllers\\AggregationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:48:23.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiAggregatorService.cs",
+              "DocumentMoniker": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Services\\ApiAggregatorService.cs",
+              "RelativeDocumentMoniker": "ApiAggregator\\Services\\ApiAggregatorService.cs",
+              "ToolTip": "C:\\Users\\themi\\source\\repos\\ApiAggregator\\ApiAggregator\\Services\\ApiAggregatorService.cs",
+              "RelativeToolTip": "ApiAggregator\\Services\\ApiAggregatorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:32:44.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

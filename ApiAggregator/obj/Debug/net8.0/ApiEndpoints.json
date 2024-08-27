@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "ApiAggregator.Controllers.AggregationController",
+    "Method": "GetAggregatedData",
+    "RelativePath": "api/Aggregation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterByTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filterByAuthor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filterByName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortDescending",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiAggregator.Models.AggregatedResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiAggregator.Controllers.AggregationController",
+    "Method": "GetAggregatedData",
+    "RelativePath": "api/Aggregation/aggregated-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
